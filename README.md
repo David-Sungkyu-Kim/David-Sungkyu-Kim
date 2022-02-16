@@ -17,6 +17,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+<p align="center">
+  <a href="#" target="_blank">
+    <img width="40em" height="40em" src="">
+  </a>
+</p>
+-->
+
+<h2> Welcome 👋 , I'm Sung kyu Kim.</h2>
+
+<!-- 
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 🌐 &nbsp;Frontend:&nbsp;
+  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
+- 🔧 &nbsp;IDE's:&nbsp;
+  ![Webstorm](https://img.shields.io/badge/-Webstorm-0A1A2F?style=flat&logo=webstorm&logoColor=68daf2)
+- 🖥 &nbsp;Design:&nbsp;
+  ![Framer](https://img.shields.io/badge/-Framer-0A1A2F?style=flat&logo=framer)
+  ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma) 
+-->
+
+<br/>
+
+
 <h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
