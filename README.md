@@ -65,7 +65,7 @@ Here are some ideas to get you started:
       <a>
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
       </a>
-      <br>React JS
+      <br>React
     </td>
     <td align="center" width="96"> 
       <a>
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
       <a>
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       </a>
-      <br>Next JS
+      <br>Next.js
     </td>
    
   <td align="center" width="96">
