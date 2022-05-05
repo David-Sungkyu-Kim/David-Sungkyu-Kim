@@ -79,12 +79,7 @@ Here are some ideas to get you started:
       </a>
       <br>Next JS
     </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
+   
   <td align="center" width="96">
       <a>
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
