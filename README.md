@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<h2> Welcome 👋 , I'm Sung kyu Kim.</h2>
+<p>Hello</p> 
 
 <!-- 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - 🖥 &nbsp;Design:&nbsp;
   ![Framer](https://img.shields.io/badge/-Framer-0A1A2F?style=flat&logo=framer)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma) 
--->
+
 
 <br/>
 
@@ -90,3 +90,4 @@ Here are some ideas to get you started:
   </tr>
     
 </table>
+-->
